@@ -1,0 +1,16 @@
+{
+  "name": "pydataxm-js",
+  "version": "1.0.0",
+  "description": "Cliente JavaScript para la API pública de XM Colombia (versión JS de pydataxm)",
+  "main": "index.js",
+  "type": "module",
+  "author": "Sebastian Torres",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7"
+  },
+  "files": [
+    "src/",
+    "index.js"
+  ]
+}
