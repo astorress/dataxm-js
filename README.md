@@ -1,4 +1,4 @@
-# pydataxm-js
+# dataxm-js
 
 Cliente en **JavaScript** para consumir la [API pública de XM](https://servapibi.xm.com.co/), la cual proporciona acceso a datos del sistema eléctrico colombiano. Este paquete está inspirado en la librería en Python [`pydataxm`](https://github.com/EquipoAnaliticaXM/API_XM), ampliamente utilizada por analistas y científicos de datos para extraer métricas como demanda real, generación, precios, entre otros.
 
@@ -19,7 +19,7 @@ Cliente en **JavaScript** para consumir la [API pública de XM](https://servapib
 ## 📦 Instalación
 
 ```bash
-npm install pydataxm-js
+npm install dataxm-js
 ```
 
 ---
@@ -27,7 +27,7 @@ npm install pydataxm-js
 ## 📚 Ejemplo de uso
 
 ```js
-import { ReadDB } from 'pydataxm-js'
+import { ReadDB } from 'dataxm-js'
 
 const db = new ReadDB()
 
