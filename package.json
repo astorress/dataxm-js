@@ -4,8 +4,16 @@
   "description": "Cliente JavaScript para la API pública de XM Colombia (versión JS de pydataxm)",
   "main": "index.js",
   "type": "module",
-  "author": "Sebastian Torres",
+  "author": "Sebs Torres",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astorress/pydataxm-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/astorress/pydataxm-js/issues"
+  },
+  "homepage": "https://github.com/astorress/pydataxm-js#readme",
   "dependencies": {
     "axios": "^1.6.7"
   },
