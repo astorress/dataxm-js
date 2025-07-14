@@ -1,5 +1,5 @@
 {
-  "name": "pydataxm-js",
+  "name": "dataxm-js",
   "version": "1.0.0",
   "description": "Cliente JavaScript para la API pública de XM Colombia (versión JS de pydataxm)",
   "main": "index.js",
@@ -8,12 +8,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/astorress/pydataxm-js.git"
+    "url": "git+https://github.com/astorress/dataxm-js.git"
   },
   "bugs": {
-    "url": "https://github.com/astorress/pydataxm-js/issues"
+    "url": "https://github.com/astorress/dataxm-js/issues"
   },
-  "homepage": "https://github.com/astorress/pydataxm-js#readme",
+  "homepage": "https://github.com/astorress/dataxm-js#readme",
   "dependencies": {
     "axios": "^1.6.7"
   },
